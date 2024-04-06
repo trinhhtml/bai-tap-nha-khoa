@@ -1,0 +1,139 @@
+@charset "utf-8";
+/* CSS Document */
+.top-bar{
+	width: 100%;height: 50px;line-height: 50px
+}
+.top-bar a{
+	color: white;text-decoration: none
+}
+.top-bar a:hover{
+	color: #FFC113
+}
+.navbar .navbar-nav .nav-item .nav-link{
+	padding: 10px 20px
+}
+.navbar .navbar-nav .nav-item .nav-link:hover{
+	color: #086DB5, 
+}
+.navbar .navbar-nav .nav-item .dropdown-menu{
+	background-color: #086DB5;padding-top: 0; border-radius: 0;
+}
+.navbar .navbar-nav .nav-item .dropdown-menu li a:hover{
+	background-color: #FCC113;color:white
+}
+main{
+	width: 100%; min-height: 600px
+}
+footer{
+	width: 100%; min-height: 200px
+}
+.bo-goc{ 
+	border-radius: 5px; border: none
+}
+.gach-chan{
+	border-bottom: 2px solid #F2C94C
+}
+footer .navbar-nav .nav-item .nav-link:hover{
+	color: #FFC113
+} 
+.pad{
+	padding: 10px 15px
+}
+
+#service a{
+	text-decoration: none;color: #000000
+}
+#service a:hover{
+	color: #FFC113
+	
+}
+.bottom-bar{
+	width: 100%; height: 50px; line-height: 50px
+}
+
+
+#anh-bia{
+width: 100%;min-height: 300px;	background-image: url("../images/why.jpg");background-repeat: no-repeat;background-size: cover;background-position: top center
+}
+#cam-nhan .noi-dung img{
+	width: 80px; height: 80px;
+}
+#cam-nhan .noi-dung{
+	display: flex;justify-content: center;align-items: center;flex-direction: column;text-align: center
+}
+#thanh-cong button{
+	border: none
+}
+#thanh-cong button:hover{
+	background-color: #FCC113
+}
+#tin-tuc a{
+	text-decoration: none; color:black
+}
+#tin-tuc a:hover{
+	color:#FCC113;}
+#tin-tuc ul li{
+	list-style: none; font-size: 12px
+}
+footer #icon-lienhe a{
+	text-decoration: none;color: white
+}
+footer #icon-lienhe a:hover{
+	color: #FFC113
+}
+#about button:hover{
+	background-color: #FFC113; border: none
+}
+#dat-lich button{
+	background-color: #FCC113; border:none
+}
+#dat-lich a button:hover{
+	background-color: #056CB6}
+#bg-dichvu{
+	width: 100%;min-height: 300px;	background-image: url("../images/pageheader.png");background-repeat: no-repeat;background-size: cover;background-position: top center
+}
+#bg-dichvu a button:hover{
+	background-color: #FFC113; border: none
+}
+.mt-7{
+	margin-top: 100px
+}
+.form-set{
+	width: 100%;padding: 5px
+}
+.form-setmess{
+	width: 100%;padding: 5px;height: 200px
+}
+#lien-he a button{
+	background-color: #056CB6
+}
+#lien-he a button:hover{
+	background-color: #FCC113;border: none
+}
+#map{
+	width: 100%;min-height: 600px;align-content: center
+}
+#cam-nhan{
+	width: 100%;min-height: 700px;align-content: center
+}
+#doi-ngu{
+	width: 100%; min-height: 600px;align-content: center
+}
+.before{
+	width: 60px;height: 20px;background-color: grey
+}
+#khach-hang{
+	width:100%;min-height: 1300px; align-content: center;align-items: center
+}
+#tin-tuc a button{
+	background-color: hsla(205,96%,37%,1.00)
+}
+#tin-tuc a button:hover{
+background-color: #ffc113;border: none
+}
+#tin-tuc form button{
+border: none; color: white;
+}
+.bg-search{
+	width: 100%;min-height: 100px;align-items: center;padding-bottom: 20px
+}
